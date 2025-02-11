@@ -4,7 +4,7 @@
 
   [![Texto flutuante](https://readme-typing-svg.demolab.com/?color=5e3cacff&lines=Oi,+tudo+bem+?+Bem+vindo+ao+meu+GitHub!+Meu+nome+é+Sarah+Ocy&size=20&width=900&center=true)](https://git.io/typing-svg)
   
- <p align="center"> Uma ex-aluna de Engenharia Elétrica, atual estudante de Engenharia de Software e monitora do Fórum da Alura.  </p>
+ <p align="center"> Uma enhenheira de software em formação, suporte aducacional da Alura, apaixonada por desenvolvimento e pelo impacto da tecnologia na vida das pessoas  </p>
 
 
 <div style="display: inline_block" align="center"><br>
