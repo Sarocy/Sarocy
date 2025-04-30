@@ -4,18 +4,19 @@
 
   [![Texto flutuante](https://readme-typing-svg.demolab.com/?color=5e3cacff&lines=Oi,+tudo+bem+?+Bem+vindo+ao+meu+GitHub!+Meu+nome+é+Sarah+Ocy&size=20&width=900&center=true)](https://git.io/typing-svg)
   
- <p align="center"> Uma engenheira de software em formação, suporte aducacional da Alura, apaixonada por desenvolvimento e pelo impacto da tecnologia na vida das pessoas  </p>
+ <p align="center"> Uma engenheira de software em formação, apaixonada por desenvolvimento e pelo impacto da tecnologia na vida das pessoas  </p>
 
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-  
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Next.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Spring Boot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" alt="Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
 </div>
-
-
 
 
   
