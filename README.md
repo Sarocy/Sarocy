@@ -2,7 +2,7 @@
   <h1 align="center">👩🏻‍💻 Sarah Ocy 👩🏻‍💻</h1>
 </p>
 
-[![Texto flutuante](https://readme-typing-svg.demolab.com/?color=5e3cacff&lines=Oi,+tudo+bem?+Bem-vindo+ao+meu+GitHub!+Meu+nome+é+Sarah+Ocy&size=20&width=900&center=true)](https://git.io/typing-svg)
+[![Texto flutuante](https://readme-typing-svg.demolab.com/?color=5e3cacff&lines=Oi,+tudo+bem?+Bem-vindo+ao+meu+GitHub!&size=20&width=1000&center=true)](https://git.io/typing-svg)
 
 <p align="center">🚀 Engenheira de Software em formação | Desenvolvedora Full-stack em crescimento 💻</p>
 
