@@ -1,19 +1,14 @@
-<p align="center">
-  <h1 align="center">👩🏻‍💻 Sarah Ocy 👩🏻‍💻</h1>
-</p>
+[![Texto flutuante](https://readme-typing-svg.demolab.com/?color=5e3cacff&lines=Bem-vindo+ao+meu+GitHub!&size=20&width=1000&center=true)](https://git.io/typing-svg)
 
-[![Texto flutuante](https://readme-typing-svg.demolab.com/?color=5e3cacff&lines=Oi,+tudo+bem?+Bem-vindo+ao+meu+GitHub!&size=20&width=1000&center=true)](https://git.io/typing-svg)
-
-<p align="center">🚀 Engenheira de Software em formação | Desenvolvedora Full-stack em crescimento 💻</p>
+<p align="center"> Desenvolvedora Front-End Júnior | Engenheira de Software em formação </p>
 
 
 ## Sobre Mim
 
-Sou **desenvolvedora** com foco em **front e back**, apaixonada pelo que a tecnologia torna possível e uma eterna curiosa.
+Sou **desenvolvedora Front-End Júnior**, apaixonada pelo que a tecnologia torna possível e uma eterna curiosa.
 
 - 🎓 **Bacharelanda em Engenharia de Software**, no 7º período  
-- 💙 Em um relacionamento sério com **React/Next**, **Node/Spring** 
-- ⚡ **Fun fact**: sou fascinada por música e finjo tocar violão pra entreter os amigos
+- 💙 Especializada em **React** e **Next.js**, com sólidos conhecimentos em **JavaScript**, **TypeScript**, **Tailwind CSS** e boas práticas de desenvolvimento front-end
 - 💼 Trabalhei por 2 anos e 9 meses na maior escola de programação do Brasil, a Alura, como monitora do fórum e suporte educacional (acho que salvei muitas pessoas no inicio da carreira por lá rsrs)
 - 🛠 Escrevi alguns 7 days of code para a Alura que você pode conferir aqui no meu perfil e podem te ajudar bastante a montar um portfólio inicial em tecnologias como **SQL**, **Flutter**, **React** e **Spring Boot**
 
@@ -23,14 +18,13 @@ Sou **desenvolvedora** com foco em **front e back**, apaixonada pelo que a tecno
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Next.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Spring Boot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
   <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Tailwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"> 
+  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
+  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
 
@@ -50,6 +44,4 @@ Sou **desenvolvedora** com foco em **front e back**, apaixonada pelo que a tecno
 
 Sinta-se à vontade para explorar meus projetos e entrar em contato! Estou sempre aberta a aprender, colaborar e contribuir para novos desafios.
 
-
-**# Keep coding and make things happen!**
 
